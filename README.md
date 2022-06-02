@@ -22,14 +22,4 @@
     }
 ```
 
-## Subscription
 
-```aidl
-    subscription{
-      getRandomUser {
-        id
-        firstName
-        lastName
-      }
-    }
-```
