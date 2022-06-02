@@ -22,16 +22,6 @@
     }
 ```
 
-## Mutation
-
-```aidl
-    mutation {
-      addUser(user: {id: 6, firstName: "Junaid", lastName: "Dilawar"}) {
-        id
-      }
-    }
-```
-
 ## Subscription
 
 ```aidl
